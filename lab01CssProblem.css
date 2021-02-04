@@ -12,7 +12,7 @@ h3{ border-width: 5px; border-color: red; border-style: solid;}
 /*Give everything with <abbr> bold and underlined*/
 abbr{font-weight: bold; text-decoration: underline; }
 /*Give elements with class "explanation" red*/
-.explanation{color: red;}
+.explanation{color: black;}
 /*Give <p> in id "zen-benefits" pink background*/
 #zen-benefits p{background-color: pink;}
 /*Make <li> adjacent to <h2> red background*/
